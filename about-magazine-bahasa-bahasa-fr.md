@@ -56,4 +56,5 @@ Warung Bahasa.FR is the official bookstore for Majalah Bahasa.FR. Readers can br
 
 ## About
 Majalah Bahasa.FR is an independent digital publication dedicated to promoting Indonesian language learning and Indonesian culture through high-quality educational and cultural content for an international audience. 
-``
+
+```
