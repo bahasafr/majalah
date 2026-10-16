@@ -17,7 +17,7 @@ Majalah Bahasa.FR is a digital magazine dedicated to learners of the Indonesian 
 - Cultural and travel features introducing places, traditions, and people
 - Audio resources that help improve listening comprehension
 - Interactive exercises that reinforce vocabulary and grammar
-- A bridge between French-speaking learners and Indonesia 
+- A bridge between English and French-speaking learners and Indonesia 
 
 ## What you can find inside
 
